@@ -1,0 +1,13 @@
+{
+  "name": "cofferun",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Apollo Board",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
